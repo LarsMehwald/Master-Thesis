@@ -1,0 +1,20 @@
+---
+title: 'Master thesis: The Economic Vote in Context - How does electoral accountability
+  change in a globalized world?'
+author: 'Lars Mehwald - Supervisor: Mark Andreas Kayser'
+date: "4 April 2016"
+output:
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+fontsize: 12pt
+bibliography:
+- references/ReferencesLiterature.bib
+- references/ReferencesDataBases.bib
+- references/RandPackages.bib
+---
+
+<!-- csl: references/american-journal-of-political-science.csl --> 
+<!-- includes:
+      in_header: references/header.tex --> 
